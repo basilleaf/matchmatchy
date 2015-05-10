@@ -1,0 +1,12 @@
+# Site settings
+title: OPUS Grid Slider
+email: lballard@seti.org
+description: > # this means to ignore newlines until "baseurl:"
+    A demo of using Angular to interact with the <a href= "http://pds-rings-tools.seti.org/opus/api"> OPUS API</a>
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
